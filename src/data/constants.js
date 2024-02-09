@@ -296,7 +296,7 @@ export const projects = [
     tags: ["React Js", "MongoDb", "Node Js", "AWS"],
     category: "web app",
     github: "https://github.com/himanshu-23a/projectbuddy-backend",
-    webapp: "#",
+    webapp: "https://projectbuddy.live/#/",
   },
   {
     id: 1,
