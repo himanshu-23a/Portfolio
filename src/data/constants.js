@@ -212,7 +212,7 @@ export const certificates = [
       },
       {
         name: "AWS Cloud Technical Essentials",
-        link: ""
+        link: "https://www.coursera.org/account/accomplishments/verify/7KD75SB55Y2L?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course"
       },
       {
         name: "IBM AI Analyst",
@@ -333,7 +333,7 @@ export const projects = [
       "Android application developed using Kotlin to view latest news",
     tags: ["Kotlin", "News API"],
     category: "android app",
-    github: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSLV6DytADheyxiWk6wgJaouMIwPkjr9tx93LntsgTaA&s",
+    github: "https://github.com/himanshu-23a/NewsStack",
   },
   {
     id: 4,
